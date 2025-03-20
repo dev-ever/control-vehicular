@@ -1,0 +1,26 @@
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+}
+
+.btn-circlex{
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  padding: 4px 0;
+  font-size: 12px;
+  line-height: .4;
+  border-radius: 15px;
+
+}
+
+.button{
+  
+  outline: none;
+}
+
